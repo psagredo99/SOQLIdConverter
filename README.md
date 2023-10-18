@@ -2,6 +2,12 @@
 
 SFIdConverter is a Chrome extension that provides a convenient tool for formatting Salesforce IDs for use in SOQL (Salesforce Object Query Language) queries. This extension is designed to make the process of converting Salesforce record IDs into a query-friendly format quick and easy.
 
+![image](https://github.com/psagredo99/SOQLIdConverter/assets/72439144/bbf9adf9-b950-4ae4-8296-32a91a2f6a7b)
+
+
+![image](https://github.com/psagredo99/SOQLIdConverter/assets/72439144/30d46277-f93c-409b-ad1a-d33d880d7dd1)
+
+
 ### Features
 
 - **ID Formatting**: Convert a list of Salesforce IDs into a format suitable for use in SOQL queries.
