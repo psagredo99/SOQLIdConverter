@@ -42,6 +42,6 @@ SFIdConverter is a Chrome extension that provides a convenient tool for formatti
 
 ### Support
 
-For support, questions, or issues, please create a new [GitHub Issue](https://github.com/yourgithubusername/SFIdConverter/issues).
+For support, questions, or issues, please create a new [GitHub Issue](https://github.com/psagredo99/SOQLIdConverter/issues).
 
 Thank you for using SFIdConverter! We hope it makes working with Salesforce IDs in SOQL queries a breeze.
